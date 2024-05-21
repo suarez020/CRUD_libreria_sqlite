@@ -13,7 +13,7 @@
         android:layout_marginLeft="8dp"
         android:layout_marginTop="8dp"
         android:ems="10"
-        android:hint="Nombre de la mascota"
+        android:hint="Nombre libro"
         android:inputType="textPersonName"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
@@ -26,7 +26,7 @@
         android:layout_marginLeft="8dp"
         android:layout_marginTop="12dp"
         android:ems="10"
-        android:hint="Edad"
+        android:hint="fecha"
         android:inputType="number"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/etNombre" />
